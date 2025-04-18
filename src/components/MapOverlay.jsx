@@ -18,8 +18,12 @@ const regions = {
     style: "absolute left-[273px] top-[129px] w-[32px] h-[125px] rotate-[62deg]",
   },
   R5: {
+  {
   color: "bg-purple-500/60",
-  style: "absolute left-[284px] top-[112px] w-[138px] h-[42px] rotate-[-113deg] border-2 border-black rounded-tr-[43px] rounded-tl-[43px] rounded-br-[0px] rounded-bl-[0px] justify-center items-center z-[9999]",
+  style: "absolute left-[284px] top-[112px] w-[138px] h-[42px] rotate-[-106deg] border-tl-[43px] border-tr-[43px] border-bl-[0px] border-br-[0px] z-[9999] flex justify-center items-center text-white font-bold text-center",
+  text: "Region 5"
+}
+
 }
 
 }
