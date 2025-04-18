@@ -19,8 +19,9 @@ const regions = {
   },
   R5: {
   color: "bg-purple-500/60",
-  style: "absolute left-[204px] top-[144px] w-[138px] h-[42px] rounded-tl-[60px] rounded-tr-[50px] rounded-bl-[0px] rounded-br-[0px] rotate-[-106deg] z-[9999] flex items-center justify-center",
-  children: "Region 5",
+  style: "absolute left-[284px] top-[112px] w-[138px] h-[42px] rotate-[-113deg] border-2 border-black rounded-tr-[43px] rounded-tl-[43px] rounded-br-[0px] rounded-bl-[0px] justify-center items-center z-[9999]",
+}
+
 }
 
 
