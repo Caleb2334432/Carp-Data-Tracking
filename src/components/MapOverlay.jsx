@@ -22,11 +22,6 @@ const regions = {
   style: "absolute left-[204px] top-[144px] w-[138px] h-[42px] rotate-[-106deg] rounded-tl-[60px] rounded-tr-[50px] rounded-bl-[0px] rounded-br-[0px] rounded-full border border-black z-[9999]"
 }
 
-}
-
-
-
-
 
 };
 
