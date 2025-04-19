@@ -15,11 +15,11 @@ const regions = {
   },
   R4: {
     color: "bg-blue-500/50",
-    style: "absolute left-[273px] top-[129px] w-[32px] h-[125px] rotate-[62deg]",
+    style: "absolute left-[276px] top-[139px] w-[32px] h-[125px] rotate-[62deg]",
   },
   R5: {
   color: "bg-purple-500/60",
-  style: "absolute left-[284px] top-[109px] w-[138px] h-[42px] rotate-[-106deg] rounded-tl-[60px] rounded-tr-[50px] rounded-bl-[0px] rounded-br-[0px] rounded-full border border-black z-[9999]"
+  style: "absolute left-[284px] top-[109px] w-[138px] h-[42px] rotate-[-106deg] rounded-tl-[97px] rounded-tr-[58px] rounded-bl-[0px] rounded-br-[0px] rounded-full border border-black z-[9999]"
 }
 };
 
